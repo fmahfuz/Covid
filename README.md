@@ -1,5 +1,5 @@
 
-# Prediction of survivability among COVID-19 patients using four differnt ML algorithms
+# Prediction of survivability among COVID-19 patients using different ML algorithms
 
 The main goal of this project is to build a data science tecniques that, given a Covid-19 patient's current symptom, status, and medical history, will predict whether the patient is in high risk or not.
 
